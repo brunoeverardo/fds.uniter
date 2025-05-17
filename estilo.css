@@ -1,0 +1,41 @@
+ body {
+  background-color: #fffbf0d4; 
+  background-color: rgba(34, 119, 115, 0.897); 
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  border: 1px solid black;
+}
+
+img {
+  width: 80%;
+  height: 50%;
+  border-radius: 50px;
+  
+}
+
+h1{
+    text-align: center;
+    background-color: #852d1989;
+    color: white;
+    font-family: "Open Sans Condesed", sans-serif;
+}
+p {
+  font-size: 18px; 
+  text-align: justify;
+}
+  ul {
+    list-style-position: inside; 
+    
+ }
+
+
+  
+
+
+
+
